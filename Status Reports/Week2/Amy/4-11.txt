@@ -1,0 +1,9 @@
+Report 4/11/18
+
+1) Met with backend partner to compare blogideas.
+
+2) Created wire frame for blog with partner, partner and I are going to make it more visually appealing and compare on Friday.
+
+3) Need to know if client is comfortable with WordPress as a blog or if she had any opinion on what tyoe of blog was being used.
+
+4)Came up with a boilerplate template to use until Front End designs are ready.
