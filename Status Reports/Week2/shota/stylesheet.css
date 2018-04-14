@@ -1,0 +1,82 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    font-size: 100%;
+    font-family: serif,sans-serif;
+    overflow-y: scroll;
+}
+ 
+.wrapper{
+    width:1000px;
+    margin: 20px auto;
+}
+header{
+    height:100px;
+    background: lightblue;
+    font-family: myFont;
+} 
+ 
+h1 a{ 
+    text-decoration: none !important;
+    color: rgb(219,219,219);
+    padding: 20px 20px;
+    font-weight: 650;
+    float: left;
+    
+} 
+li a{
+    text-decoration: none;
+    display: block;
+    color: rgb(219,219,219);
+     
+}
+ 
+main{
+    width:700px;
+    float: left;
+    margin-bottom: 20px;
+}  
+form{
+    max-width: 500px;  
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+fieldset{
+    padding:10px;
+    margin: 20px 0px 100px 20px;
+    border: 1px solid #666;   
+} 
+legend{
+    font-size: 2em;
+    padding:5px;
+    font-style:italic;
+
+}
+input[type=text],input[type=phone],input[type=email]{
+    height:30px;
+    width: 40%;
+    margin: 10px;
+}
+ 
+ 
+textarea{ 
+    width:90%; 
+    margin-left: 10px;
+}
+
+#thx{
+    padding: 10px 10px 200px 10px;
+    
+}
+ 
+ 
+footer{
+    position: relative;
+    width: 100%;
+    bottom: 0%;
+    height: 110px;
+    clear: both;
+    background: lightblue;
+} 
