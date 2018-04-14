@@ -1,7 +1,6 @@
 Report 4/13/18
 
- 1) 
+ 1) Created a simple contact us page which will get users name, email, phone, company name(if applicable), website, 
+    comments.
 
- 2) 
-
- 3) 
+ 2) Created thank you page after submitting the comments.
