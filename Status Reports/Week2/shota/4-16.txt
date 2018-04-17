@@ -1,5 +1,5 @@
 Report 4/16/18
 
- 1)
- 2)
- 3)
+ 1) Updated contact us page with contact information of the company.
+ 2) Thinking what to add in contact page besides user information.  
+
