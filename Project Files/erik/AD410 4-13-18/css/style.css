@@ -1,0 +1,89 @@
+body {
+    font-family: Lato;
+}
+
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+    color: #000;
+    background-color: #FFF;
+    padding: 1% 0;
+    font-size: 1.2em;
+    border: 0;
+    -moz-box-shadow: 3px 3px 5px 6px #ccc;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+    box-shadow: 3px 3px 5px 6px #ccc;
+    z-index: 1;
+}
+
+.navbar-brand {
+    float: left;
+    min-height: 59px;
+    padding: 0 15px 15px;
+}
+
+.navbar-inverse .navbar-nav .active li a {
+    color: #d5d5d5;
+    background-color: #2E75B6;
+}
+
+.navbar-inverse .navbar-nav .active a,
+.navbar-inverse .navbar-nav .active a:focus,
+.navbar-inverse .navbar-nav .active a:hover {
+    color: #fff;
+    background-color: #2E75B6;
+}
+
+.local a:hover {
+    color: #2E75B6 !important;
+}
+
+.logo {
+    max-height: 55px;
+    border-radius: 10px;
+}
+
+#icon {
+    max-width: 200px;
+    margin: 1% auto;
+    border-radius: 10px;
+}
+
+.carousel-caption {
+    top: 50%;
+    transform: translateY(-50%);
+    font-family: 'Lato';
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+.btn {
+    font-size: 18px;
+    padding: 12px 22px;
+}
+
+.navbar-toggle {
+    background: #2E75B6;
+}
+
+.carr {
+    max-width: 100%;
+    max-height: 100vh;
+    margin: auto;
+}
+
+.container {
+    margin: 4% auto;
+}
+
+@media (max-width: 600px) {
+    .carousel-caption {
+        display: none;
+    }
+    #icon {
+        max-width: 150px;
+    }
+    h4 {
+        font-size: 1.2em;
+    }
+}
