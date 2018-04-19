@@ -1,3 +1,4 @@
+ 
 <!doctype html>
 <html lang="en">
 <head>
@@ -14,17 +15,31 @@
  
 <div class= "wrapper">
 <main>
+    <aside>
+    <section class="popular-places">
+            <h3>Contact Info</h3>
+            <p>contact@popsmartkids.com</p>
+    </section> 
+    <br>
+    <h3>Follow Us!</h3>
+    <!-- Add font awesome icons -->
+        <a href="https://www.facebook.com/popsmartkids/" class="fa fa-facebook"></a>
+        <a href="ttps://twitter.com/popsmartkids" class="fa fa-twitter"></a>
+        <a href="https://www.linkedin.com/in/priyankaraha/" class="fa fa-linkedin"></a>
+    </aside>
+    
+    
     <form action="formhandler.php" method="post">
         <fieldset>
-            <legend>Contact Us</legend>
+            <legend>Get in touch with us!</legend>
             
-            <input type="text" name="name" placeholder="*Firest Name">
+            <span>*</span><input type="text" name="name" placeholder="Firest Name" required >
             
-            <input type="text" name="name" placeholder="*Last Name">
+            <span>*</span><input type="text" name="name" placeholder="Last Name" required >
             
             <input type="phone" name="phone" placeholder="Phone">
             
-            <input type="email" name="email" placeholder="*Email">
+            <span>*</span><input type="email" name="email" placeholder="*Email" required > 
             
             <input type="text" name="company" placeholder="Compnay Name">
             
@@ -36,9 +51,6 @@
     </fieldset>
     </form>
 </main>
- 
-
-
 </div><!--end wrapper-->
 <footer>
      

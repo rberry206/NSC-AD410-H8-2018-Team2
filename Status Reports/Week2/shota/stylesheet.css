@@ -12,6 +12,13 @@ body{
     width:1000px;
     margin: 20px auto;
 }
+
+
+/**********
+
+Header section
+
+***********/
 header{
     height:100px;
     background: lightblue;
@@ -34,14 +41,24 @@ li a{
 }
  
 main{
-    width:700px;
+    max-width:1200px;
     float: left;
     margin-bottom: 20px;
-}  
+    text-align: center;
+ }  
+
+/**********
+
+Form section
+
+***********/
 form{
-    max-width: 500px;  
-    margin-left: 50px;
-    margin-bottom: 50px;
+    max-width: 700px;  
+    margin: 5%;
+    margin-bottom: 50px; 
+}
+span{
+    color: red;
 }
 fieldset{
     padding:10px;
@@ -57,7 +74,7 @@ legend{
 input[type=text],input[type=phone],input[type=email]{
     height:30px;
     width: 40%;
-    margin: 10px;
+    margin: 10px 20px;
 }
  
  
@@ -70,8 +87,51 @@ textarea{
     padding: 10px 10px 200px 10px;
     
 }
+
+
+/**********
+
+Contact info section
+
+***********/
+aside{
+    padding-left: 30px;
+    text-align: center;
+    clear: both;
+
+}
+.fa {
+  padding: 15px;
+  font-size: 20px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
  
- 
+/**********
+
+Footer section
+
+***********/
+
 footer{
     position: relative;
     width: 100%;

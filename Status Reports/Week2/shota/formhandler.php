@@ -1,6 +1,9 @@
 <?php
 //This is a very simple PHP script that outputs the name of each bit of information in the browser window, and then sends it all to an email address you add to the script.
 //Many thanks to Adam Eivy for his invaluable help with modifying the PHP.
+ 
+ 
+
 
 if (empty($_POST)) {
 	header('Location: '.$_SERVER['HTTP_REFERER']);
@@ -53,6 +56,6 @@ $subject = 'Email from the website'; // if your client has more than one web sit
 /****
  * Enter a email address between the single quote
  ****/
-mail ('', $subject, $body, $from);
+mail ('st.shota96@gmail.com', $subject, $body, $from);
 
 header('Location: thx.html'); 
