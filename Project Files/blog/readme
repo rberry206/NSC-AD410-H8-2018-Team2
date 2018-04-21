@@ -1,1 +1,16 @@
+04/20/2018
+Version 1.0
+Created basic files to start adding blogs for database
+Add - Inserts blog contents into DB
+Admin - Where the magic happens, user puts in data to package for delivery to db
+Conn - Connection file for the DB
+Index - Used as a test bed to test if database is able to display blog.
+
+Goal for 1.1, Listed by priority
+Deletion - Let user delete blogs
+Templates - Create template for blogs to populate into on creation
+Admin - Refine admin, such as allow formating etc.
+
+04/??/2018
+Version 0.0
 will place blog files in here as features are implemented
