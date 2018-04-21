@@ -2,6 +2,7 @@
 <?php
 	session_start();
 	include "conn.php";
+	/* I need to change this I think */
 	$mysqli = mysqli_connect('localhost', 'root', '', 'articles');
 	if ($mysqli->connect_error) {
 		die('Error : ('. $mysqli->connect_error.') '. $mysqli->connect_error);
