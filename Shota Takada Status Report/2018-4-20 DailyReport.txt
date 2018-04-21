@@ -3,16 +3,13 @@ Status Report 7
 Date 4/20/2018
 
 What have you completed since the last report?
-1)
+1) Being ready for embedding the contact us page to front end design.
+2) Searching neat "Contact us" examples.
 
-2)
-
-3)
 What do you plan to complete by the next report?
-1)
-2)
-3)
+1) Complete "Contact us" page with the design.
+2) Hopefully adding more sections to the page.
+
 What is getting in your way?
-1)
-2)
-3)
+1) Difficulty of contacting with the company.
+
