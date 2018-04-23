@@ -1,13 +1,9 @@
 <!DOCTYPE html>
 <?php
-
-
 include "conn.php";
-
 $title = $_POST['title'];
 $retrieve = $conn->prepare("SELECT * FROM articles WHERE title ='".$title."'");
 $stmt = $retrieve->execute();
-
 ?>
 <html>
 	<head>
