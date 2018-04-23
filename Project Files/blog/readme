@@ -1,11 +1,3 @@
-04/22/2018
-Version 1.1
-Delete - Added, User wants to "delete a blog" but its more like make blog hidden from view
-	   - This is so user still has the blog in the database to archive it if deletion was a mistake
-Goal for 1.2
-Templates - Try and generate a html page from the DB
-Admin - Improve admin interface
-
 04/20/2018
 Version 1.0
 Created basic files to start adding blogs for database
