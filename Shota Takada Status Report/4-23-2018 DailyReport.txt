@@ -5,6 +5,7 @@ Date 4/23/2018
 What have you completed since the last report?
 1) Been ready for embedding embedding a static page with the font-end design.
 2) Creating QA section in contact us page. 
+3) Writing the reflection and peer review.
 
 What do you plan to complete by the next report?
 1) Complete contact us page with the design.
