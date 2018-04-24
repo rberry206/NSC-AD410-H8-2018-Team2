@@ -3,16 +3,12 @@ Status Report 8
 Date 4/23/2018
 
 What have you completed since the last report?
-1)
+1) Been ready for embedding embedding a static page with the font-end design.
+2) Creating QA section in contact us page. 
 
-2)
-
-3)
 What do you plan to complete by the next report?
-1)
-2)
-3)
+1) Complete contact us page with the design.
+2) Complete the QA section.
+
 What is getting in your way?
-1)
-2)
-3)
+1) There is not many things to do.
