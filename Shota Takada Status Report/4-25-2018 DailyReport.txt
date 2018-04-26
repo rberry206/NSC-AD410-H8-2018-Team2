@@ -1,0 +1,14 @@
+Shota Takada
+Status Report 9
+Date 4/25/2018
+
+What have you completed since the last report?
+1) We discussed what the next steps are in the meeting.
+2) Shao and I decided what to have in contact us page based on the requirements which we could get them from her tonight
+
+What do you plan to complete by the next report?
+1) If Header and footer is out, I will embed our page and the design
+2) If questions and answers are out, I will  add them to QA section in “Contact Us” page
+ 
+What is getting in your way?
+1) There is no obstacle currently. 
