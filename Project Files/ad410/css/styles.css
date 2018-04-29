@@ -1,0 +1,293 @@
+
+* {
+padding:0;
+margin:0;
+}
+
+body {
+background:white;
+font-size:100%;
+}
+
+div#wrapper {
+width:940px;
+margin:0 auto;
+background:#CDDBAE;
+}
+
+header {
+background:#CDDBAE;
+}
+
+header img{
+margin:0 auto;
+}
+
+nav {
+height:50px;
+line-height:50px;
+background:#71e895;
+}
+
+nav li {
+float:left;
+list-style-type:none;
+width:20%;
+text-align:center;
+}
+
+nav a {
+text-decoration:none;
+color:#012318;
+display:block;
+}
+
+nav a:hover {
+background:#03685c;
+color:#fff;
+}
+
+div#banner {
+margin-bottom:20px;
+}
+
+main {
+width:580px;
+float:left;
+}
+
+aside {
+width:340px;
+float:right;
+}
+
+aside img{
+margin-top:10px;
+}
+
+aside p{
+line-height:1.2;
+padding: 20px 5px 0 5px;
+font-size: 0.93em;
+font-style: italic;
+}
+
+aside ul{
+margin-top:22px;
+}
+
+aside li{
+list-style-type:none;
+line-height:1.2;
+font-size:1.05em;
+text-align:left;	
+	
+}
+
+img{
+max-width:100%;
+display:block;
+
+}
+
+p {
+padding:8px 15px 8px 15px;
+line-height:1.5;
+font-family:verdana, helvertica, arial;
+}
+
+p li{
+float:left;
+list-style-type:none;
+}
+
+h1 {
+font-size:2.44em; 
+line-height:1.15;
+padding:10px 0 10px 0;
+text-align:center;
+font-family: 'kaushan_scriptregular';
+}
+
+h2 {
+font-size:1.953em;
+line-height:1.15;
+padding:10px 0 10px 0;
+text-align:center;
+font-family: 'kaushan_scriptregular';
+}
+
+h3 {
+font-size:1.563em;
+line-height:1.15;
+margin-bottom:7px;
+text-align:center;
+font-family: 'kaushan_scriptregular';
+}
+
+h4{
+font-size:1.21em;
+line-height:1.15;
+margin-bottom:7px;
+text-align:center;
+font-family: 'kaushan_scriptregular';
+}
+
+figcaption {
+font-size:.92em;
+font-style:italic;
+text-align:center;
+background-color:#71e895;
+padding:8px;
+}
+
+footer {
+height:50px;
+line-height:50px;
+background:#71e895;
+clear:both;
+}
+
+footer li{
+float:left;
+list-style-type:none;
+width:25%;
+text-align:center;
+color:blue;
+}
+
+footer a{
+color:blue;
+}
+
+div#social{
+padding-bottom:8px;
+display:table;
+margin:0 auto;
+clear:both;
+}
+
+footer img{
+margin:0 auto;
+}
+
+table{
+border-collapse:collapse;
+margin:0 auto;
+}
+
+td{
+
+width:25%;
+text-align:center;
+vertical-align:top;
+padding:10px;
+}
+
+td img{
+	max-width:100%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+td p {
+font-size:.92em;
+font-family: 'kaushan_scriptregular';
+}
+
+td h3{
+text-align:left;	
+}
+
+td li{
+list-style-type:none;
+line-height:1.2;
+font-size:1.15em;
+text-align:left;
+}
+
+th {
+padding:20px;
+font-size:2em;
+font-family: 'kaushan_scriptregular';
+}
+
+footer img{
+margin:0 auto;
+}
+
+label{
+display:block;
+margin-bottom:5px;
+}
+
+input[type=text],
+input[type=email],
+input[type=phone]{
+height:20px;
+width:98%;
+margin-bottom:10px;
+}
+
+input[type=radio],
+input[type=checkbox]{
+margin-right:7px;
+}
+
+form ul{
+margin-bottom:10px;
+}
+
+form li{
+list-style-type:none;
+margin-left:10px;
+margin-bottom:4px;
+}
+
+textarea{
+width:98%;
+margin-bottom:10px;
+resize:both;
+}
+
+legend{
+font-size:2.4em;
+padding:8px;
+font-style:italic;
+margin-top:10px;
+}
+
+fieldset{
+padding:20px;
+}
+
+blockquote{
+font-size:1.15em;
+background-color:#71e895;
+padding:10px;
+}
+
+div#social{
+padding-bottom:8px;
+display:table;
+margin:0 auto;
+clear:both;
+}
+
+img.right{
+float:right;	
+}
+
+img.left{
+float:left;
+}
+@font-face {
+    font-family: 'kaushan_scriptregular';
+    src: url('../fonts/kaushanscript-regular-webfont.woff2') format('woff2'),
+         url('../fonts/kaushanscript-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
