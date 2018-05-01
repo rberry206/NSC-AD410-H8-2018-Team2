@@ -4,7 +4,7 @@ Date 4/30/2018
 
 What have you completed since the last report?
 1) Looked up some examples for QA sections.
-2) Embedding the contact us page with the header and footer.
+2) Embedded the contact us page with the header and footer.
 
 What do you plan to complete by the next report?
 1) Complete the contact us page.
