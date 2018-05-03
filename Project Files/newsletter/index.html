@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css" />
+    </head>
+    <body>
+        <div>
+            Welcome to my website!
+        </div>
+        <div id="list-builder"></div>
+        <div id="popup-box">
+            <img src="close.svg" id="popup-close" />
+            <div id="popup-box-content">
+                <h1>Subscribe to The Newsletter</h1>
+                <p>
+                    Stay up to date on the latest in web, mobile, and game development, plus receive exclusive content by
+                    subscribing to our newsletter.
+                </p>
+                <form id="popup-form" action="https://email_list_service_api.com">
+                    <input type="hidden" name="list" value="key_list_etc" />
+                    <input type="text" name="name" placeholder="Full Name" />
+                    <input type="text" name="email" placeholder="Email Address" />
+                    <button type="button" name="subscribe">Subscribe</button>
+                </form>
+            </div>
+        </div>
+        <script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
+        <script src="list-builder.js"></script>
+    </body>
+</html>
