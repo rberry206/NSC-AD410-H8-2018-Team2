@@ -1,0 +1,12 @@
+Erik Neville
+5/9/2018
+Role: Front End
+
+Today in class the group decided to stick with the same design that was created but to simplify things by using a Bootstrap
+framework. The purpose of this decision was to make it easier for other front end team memembers, and potentially our client
+to make changes and add content. The previous CSS file we had was too hard to understand and too hard to make into a mobile
+friendly layout. I volunteered to completely redo the home page (index.html) to be clearly understood and mobile friendly.
+
+My goal is to have a working index.html file posted by tomorrow night which can be used as a backbone for the rest of the
+front end team. I will create easy to understand and clearly commented containers which other team memebers can change,
+remove, and add to to make the whole process of creating a good looking front end much easier.
