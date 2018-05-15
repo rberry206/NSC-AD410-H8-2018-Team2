@@ -1,0 +1,14 @@
+Status Report 5-14
+Role: Backend
+
+What have you completed since the last report?
+1) Implemented the Google SignIn for the newsletter.
+
+What do you plan to complete by the next report?
+1) Add some more styling and fix the cookie to last a week. I decided to scrap
+all of the code I had for the previous newsletter pop-up. I built mine from scratch instead.
+
+
+What is getting in your way?
+1) I need to be able to visual the main/home page finished to style the pop-up and make sure the functionality is working
+after loading it onto the server. Making sure all bugs and errors are resolved.
