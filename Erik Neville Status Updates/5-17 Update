@@ -1,0 +1,14 @@
+5-17-18 Status Update
+Role: Front End
+
+  Today I had to be at work at 4:00am so I did not provide a status report for yesterday. Yesterday, the 16th,
+I worked on connecting all of the front end together with a similar layout, navigation bar and footer. I added
+padding to the sites where the text was reaching all of the way out to the edges of the screen. I met with Dawit,
+Betelhem, Michael, and Ryan two hours before class to explain some Bootstrap CSS concepts and cover any last minute
+details, since we were expecting to present to the client. 
+
+  Moving forward, I still need to make it so that the collapsed navigation button will expand and collapse the
+navigation bar when clicked outside of the navigation box. I know that I can accomplish this using javascript, I 
+just have to do a workaround of the Bootstrap framework. The other things I will be working on are tying our banner,
+which is our large picture on the middle of each page, to the navigation bar. Finally I will be implimenting 
+fluid typography so that the font size will change with each screen sizes.
