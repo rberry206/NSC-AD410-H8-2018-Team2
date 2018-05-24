@@ -1,0 +1,20 @@
+Erik Neville
+05//2018
+Role: Front End
+
+What have you completed since the last report?
+- Formatted the banner of each page to stay attatched to the navigation bar.
+- Updated the top left logo image in the nav bar to be the same on each page.
+- Reformatted the initial size of the banner on each secondary page (about, contact, etc...)
+- Using ther @media call I made it so that all of the banners will be a much smaller size on
+  mobile, because they were previously taking up the whole page when using a mobile device.
+
+What do you plan to complete by next report?
+My priority list is as follows:
+  1) Make the tiles of each blog post look better using our Bootstrap framework
+  2) Same as above but for the sign up popup window
+  3) Remove the independent scrolling secion of the home page (per client request)
+  4) Work on reformating the shape and behavior of the dropdown navigation menu
+      when in mobile mode. More specifically: it still needs to hide when a user clicks
+      anywhere outside of it, and it should drop down when clicked to only take up the
+      top right portion of the page.
