@@ -1,0 +1,49 @@
+Erik Neville
+05/30/2018
+Role: Front End
+
+What have you completed since the last report?
+- Since my last post on here I have done work on my laptop, but I haven't had an
+  internet connection, because I was camping on a family trip over the holliday
+  weekend. What I've done, which today has become live, was to implement the
+  font that our client chose. I did that by using a web service to create a
+  web-font-kit, which is being called in our main CSS file.
+ 
+ - I also updated the home page banner to not have a scrolling list of strings,
+   per client request, and changed it to become simply a separate container
+   which holds some text that can easily be changed.
+   
+ - I fixed our "testimonials" button towards the bottom of the page to have some
+   nice looking animation using jQuery.
+   
+  - I worked with Michael to format the look of the initial blog page, as well as
+    the individual blog posts once they are clicked on.
+
+What do you plan to complete by next report?
+  - I have recognized the limitations of using a framework, such as Bootstrap, and
+    I would like to continue to learn how to work around them. For instance, I 
+    recognize that our page is using an outdated version of Bootstrap and it's
+    being instantiated into the pages as a CDN.
+    
+  - I would like to continue to use Bootstrap to create the look and functionality
+    of the front end of the site, but I'm starting to download only the most
+    crucial bootstrap JS and CSS and Sass ect.. files that we need for the 
+    functuality of this specific site, so as to avoid massive overhead due to
+    many framework files that are not being used by our team based of the
+    functionality that this website required.
+    
+  - Ultimately I would like to abandon using Bootstrap as a framework and learn
+    more about how to recreate it's attributes so that I'm not wasting file space
+    with pre-made code which I will never use. But I think with this project, as
+    long as I can take Bootstrap files and store them locally on our server, the
+    look and the behavior of the site will remain the same, dispite any changes
+    Bootstrap makes in their further updates.
+    
+  - This week I plan on converting the basic elements of each site to the more
+    current version of Bootstrap, and also including Bootstrap source code in a folder
+    which will be referenced by each and every child page of the home page, that way
+    there is no chance of design or functionality of website elements becoming obsolite
+    via changes in CDN calls to online libraries, and everything will be customizable
+    within the files that create the actual website.
+
+    
