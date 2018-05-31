@@ -1,0 +1,32 @@
+Erik Neville
+05/30/2018 and 5/31/18
+Role: Front End
+
+What have you completed since the last report?
+Since I didn't have internet connection over the holliday weekend, which I explained in my last
+post, I'm posting again after what I've been working on today. Here's what I did:
+- I changed the hover behavior on the link which returns the user to the main blog page
+  while they are viewing a single blog post.
+- I removed some borders that separate the search bar on the blog from the featured post
+  below the search bar. I did this by removing the border attribute in the blogstyle.css and
+  instead added a custom <hr> tag within the html of the main blog page.
+- I added some jQuery to the navbar links so that they slightly enlarge when they are hovered
+  over in desktop views, just to add a little flair to the page.
+- I fixed the issue with all paged related to the blog, where the footer links were floating
+  to the right side of the screen. Now they align in a the same way that they do with every
+  other page of our project.
+- I helped Dawitt reformat the pop-up for subscribing to the newsletter to become mobile friendly
+- I showed Dao how to add banners to the products page using the version of Bootstrap that we are using
+
+What do you plan to complete by next report?
+- I will be adding social media links for Google+ to each secondary page. Currently it only appears
+  on the home page.
+- I am going to create some separation between the two main body containers on the home page so that
+  they stand out a little more. Part of that includes rearanging the image locations on smaller/mobile
+  windows, so that the images don't stack one on top of another. Instead it will be 'image, text, image text'
+  design.
+- I am going to make sure that the font provided by the client is only present in the navbar section, and will
+  be different everywhere else on all pages.
+- I am going to work on making the blog page's search bar scale better with different screen sizes.
+- I am going to at "alt" components to each image on all pages as per proper HTML writing.
+- Lower on the priority list now, I'm going to format the dropdown nav menu to be more UX friendly.
