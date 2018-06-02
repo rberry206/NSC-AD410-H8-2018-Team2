@@ -1,0 +1,26 @@
+Erik Neville
+6/1/18
+Role: Front End
+
+What have you completed since the last report?
+- Added alt statements to each <img> tag
+- Loaded all of the fonts that Priyanka wanted to use into our css file using @font-face.
+- Adjusted sizing and weight of font in certain parts of certain pages.
+- Organized my version records of the changes we've made to the site, which proved useful
+  because somehow the blog pages were improperly manipulated by someone on our FTP.
+- Created a new GitHub repository with our most recent changes to each file so that every team
+  member can clone from it to quickly store and change files on their own computers.
+- Made the image responsive, and centered as the background of our "safe zone" page. Then
+  we decided we didn't want an image there so I removed it.
+- Right aligned all links that appear inside of the dropdown menu when in small browser windows
+  or mobile.
+- 
+
+What do you plan to complete by next report?
+- I'm going to make some of the buttons/links on our pages stand out with some jQuery.
+- I'm going to make sure that we have no extranious files built into our site.
+- I am going to make the social media links a little bit bigger when viewing the site on a
+  small screen
+- I'm going to look through the blog sections folders to help Michael make the "featured" blog
+  post picture appear larger than it currently does.
+- I will be available on Slack to help assist anyone who needs help with any front end work.
