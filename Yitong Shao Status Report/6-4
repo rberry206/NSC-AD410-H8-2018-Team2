@@ -1,0 +1,5 @@
+6-4
+1) Ryan tested the re-captcha on testimonial.html and contactUs.html, and he found 
+that user can submit the form without check the re-captcha. I did some research and 
+fixed the problem in php file. 
+2) Tested the new re-captcha after i fixed. Make sure both pages works correctly.
